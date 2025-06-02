@@ -85,7 +85,7 @@ const Hero: React.FC = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-gradient-to-br from-blue-500 to-purple-600 shadow-xl overflow-hidden">
                 {/* Profile Image */}
                 <img 
-                  src="/src/images/profile.jpg" 
+                  src="/profile.jpg" 
                   alt="Chhotu Jha" 
                   className="w-full h-full object-cover"
                 />
