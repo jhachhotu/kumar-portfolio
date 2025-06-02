@@ -37,6 +37,17 @@ export const projects: Project[] = [
 
 export const experiences: Experience[] = [
   {
+    id: 'spark-foundation',
+    position: 'Data Science Intern',
+    company: 'The Spark Foundation',
+    duration: 'May 2024 – July 2024',
+    responsibilities: [
+      'Conducted Exploratory Data Analysis (EDA) on datasets, including terrorism data and IPL match statistics, to identify trends, patterns, and insights',
+      'Developed data-driven insights and presented key findings to improve decision-making processes',
+      'Applied machine learning techniques to extract meaningful conclusions from real-world data'
+    ],
+  },
+  {
     id: 'xyz-tech',
     position: 'Intern – Software Developer',
     company: 'XYZ Tech Pvt. Ltd.',
